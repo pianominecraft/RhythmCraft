@@ -1,0 +1,15 @@
+name: RhythmCraft
+version: 1.0
+main: com.pianominecraft.rhythmcraft.RhythmCraft
+api-version: 1.16
+
+commands:
+  start:
+  dj:
+  finish:
+  center:
+  east:
+  west:
+  south:
+  north:
+  speed:
